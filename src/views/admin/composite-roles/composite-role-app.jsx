@@ -184,6 +184,7 @@ export const CompositeRoleApp = () => {
         </>
     );
 };
+
 CompositeRoleApp.Appbar = {
     title: "Composite Roles",
 };
