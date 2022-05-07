@@ -150,6 +150,7 @@ export const CompositeRoleApp = () => {
                     )}
                 </>
             )}
+
             {editState.edit && (
                 <EditCompositeRole
                     roles={roles}
